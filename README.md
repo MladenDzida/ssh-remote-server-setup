@@ -3,7 +3,7 @@ Basic setup steps for a remote linux server with SSH connections. (https://roadm
 
 The steps of setting up a remote linux server with SSH connections:
 <ol>
-  <li>Buy/Get a free remote server. (I used a free plan from [DigitalOcean](https://m.do.co/c/b29aa8845df8) )</li>
+  <li>Buy/Get a free remote server. (I used a free plan from [DigitalOcean](https://www.digitalocean.com/) )</li>
   <li>Create a Droplet- set up the data center, server plan, os, enable ssh key authentication and add a local ssh key</li>
   <li>Add additional ssh key later on:
     <ol>
